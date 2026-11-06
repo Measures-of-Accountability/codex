@@ -1,2 +1,2 @@
 # codex
-Measures of Accountability — unofficial worldbuilding and lore codex project
+Measures of Accountability — unofficial worldbuilding and immersive lore codex project
